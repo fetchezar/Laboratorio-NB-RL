@@ -1,0 +1,20 @@
+1 0.992
+2 0.682
+3 	a- Veradero, Todos rojos
+	b- Verdadero, accuracy = cantidad de rojos
+	c- Falso
+	d- Verdadero
+3.1	
+3.2
+3.3	Pendiente: 5.490
+	Origen: -12.289
+	Parametros aprendidos: 3
+3.4	0.620
+4 0.928
+5	a- Verdadero
+	b- Verdadero, el modelo es una elipse, el dataset es una elipse
+	c- Verdadero
+6	a- Falso
+	b- Falso, no anda
+	c- Verdadero
+	d- Falso

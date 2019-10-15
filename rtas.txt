@@ -1,0 +1,34 @@
+1. 	Una es linealmente separable. 
+	QDA tiene una mejor performance en elipse_data que Naive Bayes.
+	elipse_data genera datos uniformemente distribuidos y asigna clase
+	azul a los que quedan dentro de una elipse.
+2. Score: 0.970
+3. Score: 0.998
+4. 	a- Verdadero
+	b- Verdadero
+	c- Falso, al revez, el rojo cae más rápido
+	d- Verdadero
+	f- Verdadero
+5. 	a- Verdadero
+	b- Falso
+	c- Falso
+	d- Verdadero
+6.	a- Verdadero
+	b- Falso
+	c- Falso
+	d- Verdadero
+7. Score: 0.808
+8. Score: 0.852
+9. 	a- Verdadero
+	b- Falso
+	c- Verdadero
+	d- Falso
+10.	a- Verdadero
+	b- Falso
+	c- ???
+11.	a- Falso
+	b- Verdadero
+	c- Verdadero
+	d- Falso
+12. 	Naive Bayes: 8 (dos medias, dos sigmas, por clase)
+	QDA: 12 (???)
